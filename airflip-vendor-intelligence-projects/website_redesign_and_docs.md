@@ -5,7 +5,7 @@
 2. Improving Call-to-Actions: I updated the site’s language around Airflip's AI capabilities to make it more approachable. Call-to-actions were made more compelling by revising button text, adjusting placement, and enhancing visual elements to drive user engagement.
 
 ## Comprehensive Public Documentation
-1. Building a Robust Help Site: I developed a detailed documentation site hosted at help.airflip.com using Mintlify. This site includes in-depth product writeups and terminology guides, structured intuitively to address user needs and incorporate feedback to resolve common pain points.
+1. Building a Robust Help Site: I developed a detailed documentation site hosted at [help.airflip.com](https://www.help.airflip.com) using Mintlify. This site includes in-depth product writeups and terminology guides, structured intuitively to address user needs and incorporate feedback to resolve common pain points.
 2. Integrated In-Product Links: Each help page is directly linked to the corresponding area of the platform, ensuring users can access relevant guidance seamlessly while using the product.
 
 ![Alt Text](images/HelpDocumentation.png)
