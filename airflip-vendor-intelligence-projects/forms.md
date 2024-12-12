@@ -18,4 +18,4 @@ Researched and designed a rules and conditions engine, such that users can autom
 
 By delivering this flexible and feature-rich forms product, we've empowered our customers to digitize their data collection processes and streamline deal tracking operations.
 
-![Alt Text](images/FormsUI.png)
+![Alt Text](images/formsUI.png)
