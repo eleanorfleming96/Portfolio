@@ -8,6 +8,8 @@
 1. Building a Robust Help Site: I developed a detailed documentation site hosted at help.airflip.com using Mintlify. This site includes in-depth product writeups and terminology guides, structured intuitively to address user needs and incorporate feedback to resolve common pain points.
 2. Integrated In-Product Links: Each help page is directly linked to the corresponding area of the platform, ensuring users can access relevant guidance seamlessly while using the product.
 
+![Alt Text](images/HelpDocumentation.png)
+
 ## Dynamic Workflow Visuals with Screen Studio
 To showcase Airflip's features, I created a series of workflow videos and animated visuals using Screen Studio. These provide step-by-step demonstrations, making the platform’s capabilities easy to understand and visually engaging.
 
