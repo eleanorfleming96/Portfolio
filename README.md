@@ -9,10 +9,10 @@ Welcome to my portfolio repository! This space highlights my expertise in produc
 ### **Airflip-Vendor-Intelligence Projects**
 - **Overview**: This folder contains deliverables and insights from my role as the first hire at a procurement SaaS startup. I helped scale the team from the founder and myself to 6 people and secured 8 enterprise clients through vendor intelligence initiatives.
 - **Key Highlights**:
-  - A project spec for a form builder.
-  - A spend analytics Jupyter notebook with prototyped charts.
-  - Blogs I authored.
-  - My website redesign process.
+  - forms_module.md - Led a crossfunctional team to build a form bujilder. Includes a simplified project spec and overview. 
+  - spend_analytics_visuals.ipynb - A spend analytics Jupyter notebook with prototyped charts. Often prototyped visual charts and table formats before handing to engeineering. 
+  - blogs.md - Blogs I authored related to procurement tech.
+  - website_redesign_and_docs.md - Led a website and product documentaiton redesign.
 
 ### **BlackRock**
 - **Overview**: A detailed account of my roles at BlackRock, where I served as a product expert in Aladdin's financial analysis and optimization tools. I collaborated with the financial modeling team and portfolio managers to build and troubleshoot fixed income and equity optimization cases.
