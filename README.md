@@ -6,8 +6,9 @@ Welcome to my portfolio repository! These files support the work showing on my w
 
 ## Repository Structure
 
-- **optimization.ipynb**: Simple portfolio optimization use case with two examples in Python.
-- **spend_analytics_notebook.ipynb**: Prototypes of spend analytics visuals for engineering implementation in Python.
+- **AB Testing Project**: This project evaluates the impact of moving a “Live Share” feature to the home screen of a B2C product like AllTrails through a mock A/B test. Measures engagement, retention, and conversion rates over a 3-month period with test data.
+- **optimization.ipynb**: Explanation of portfolio optimization with two use cases in Python.
+- **spend_analytics_notebook.ipynb**: Prototypes of spend analytics charts (Sankey, Box Tree Chart etc) in Python to improve procurement spend analysis.
 
 ## Contact Details
 
@@ -15,5 +16,3 @@ Welcome to my portfolio repository! These files support the work showing on my w
 - **LinkedIn**: [Eleanor Fleming](https://www.linkedin.com/in/eleanor-fleming)
 
 ---
-
-Thank you for taking the time to look at my work!
