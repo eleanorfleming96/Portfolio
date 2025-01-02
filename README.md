@@ -1,6 +1,6 @@
 # Portfolio Repository
 
-Welcome to my portfolio repository! These files support the work showing on my website: https://eleanorfleming96.github.io/
+Welcome to my portfolio repository! These files support the work shown on my website: https://eleanorfleming96.github.io/
 
 ---
 
